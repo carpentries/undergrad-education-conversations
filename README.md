@@ -2,13 +2,13 @@
 Conversations about teaching computational skills to undergraduates
 
 This repostitory has been created as an extension of a 'Birds of a Feather' discussion at the
-2017 iEvoBio conference, where ideas about where bandied about for building new undergraduate
+2017 iEvoBio conference, where ideas where bandied about for building new undergraduate
 bioinformatics ciricula. We wanted a centralized place to put those ideas, but also wanted to make
 sure they were accessible to the broader community. Thank you GitHub :)
 
-If you have ideas or would like to contribute to the discussion, please do so in [the issue
+If you have ideas or would like to contribute to the discussion, please do so in [the issues
 tracker](https://github.com/carpentries/undergrad-education-conversations/issues). Below are bullet
-points posing questions and describing the general flow of our discussion, which will be adapted into more coherant
+points posing questions and describing the general flow of our discussion; these points will be adapted into more coherant
 issues shortly.
 
 * Is there some cost associated with teaching undergrads the traditionally memory
@@ -19,6 +19,8 @@ intensive biology content at the same time as the more logic focused computation
 * Continue to incorporate computation throughout all or most core curriculum
   * We need curricula road maps; identify the short, medium, and long term learning objectives, and
 make a plan to get there.
+  * Can't assume current faculty will be able to do this on their own, so training TA's or having
+dedicated personnel will be important
 * 'Bioinformatics' is broad, so what commonalities can be extracted to give students the best
 framework for branching into more specialized topics later?
   * Basic coding skills
