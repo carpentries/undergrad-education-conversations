@@ -3,12 +3,12 @@ Conversations about teaching computational skills to undergraduates
 
 This repostitory has been created as an extension of a 'Birds of a Feather' discussion at the
 2017 iEvoBio conference, where ideas where bandied about for building new undergraduate
-bioinformatics ciricula. We wanted a centralized place to put those ideas, but also wanted to make
+bioinformatics curricula. We wanted a centralized place to put those ideas, but also wanted to make
 sure they were accessible to the broader community. Thank you GitHub :)
 
 If you have ideas or would like to contribute to the discussion, please do so in [the issues
 tracker](https://github.com/carpentries/undergrad-education-conversations/issues). Below are bullet
-points posing questions and describing the general flow of our discussion; these points will be adapted into more coherant
+points posing questions and describing the general flow of our discussion; these points will be adapted into more coherent
 issues shortly.
 
 * Is there some cost associated with teaching undergrads the traditionally memory
@@ -26,6 +26,6 @@ framework for branching into more specialized topics later?
   * Basic coding skills
   * Basic shell tools
   * Focus on what to do with tabular data, statistics, modelling, noisy matrices
-  * Teach students to troubleshoot and to learn form manuals/formums/peers/etc
-  * Dos and don'ts for basic script design (antipatterns)
+  * Teach students to troubleshoot and to learn from manuals/forums/peers/etc
+  * Do's and don'ts for basic script design (antipatterns)
 
