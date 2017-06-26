@@ -3,7 +3,7 @@ Conversations about teaching computational skills to undergraduates
 
 This repostitory has been created as an extension of a 'Birds of a Feather' discussion at the
 2017 iEvoBio conference, where ideas where bandied about for building new undergraduate
-bioinformatics curricula. We wanted a centralized place to put those ideas, but also wanted to make
+bioinformatics curricula and teaching undergraduates computing generally. We wanted a centralized place to put those ideas, but also wanted to make
 sure they were accessible to the broader community. Thank you GitHub :)
 
 If you have ideas or would like to contribute to the discussion, please do so in [the issues
@@ -21,7 +21,7 @@ intensive biology content at the same time as the more logic focused computation
 make a plan to get there.
   * Can't assume current faculty will be able to do this on their own, so training TA's or having
 dedicated personnel will be important
-* 'Bioinformatics' is broad, so what commonalities can be extracted to give students the best
+* Domain-specific skills will be important and even 'bioinformatics' is broad, so what commonalities can be extracted to give students the best
 framework for branching into more specialized topics later?
   * Basic coding skills
   * Basic shell tools
