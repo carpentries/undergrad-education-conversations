@@ -1,10 +1,4 @@
-# undergrad-education-conversations
-Conversations about teaching computational skills to undergraduates
-
-This repostitory has been created as an extension of a 'Birds of a Feather' discussion at the
-2017 iEvoBio conference, where ideas where bandied about for building new undergraduate
-bioinformatics curricula and teaching undergraduates computing generally. We wanted a centralized place to put those ideas, but also wanted to make
-sure they were accessible to the broader community. Thank you GitHub :)
+# Conversations about teaching computational skills to undergraduates
 
 If you have ideas or would like to contribute to the discussion, please do so in [the issues
 tracker](https://github.com/carpentries/undergrad-education-conversations/issues). Below are bullet
@@ -29,3 +23,7 @@ framework for branching into more specialized topics later?
   * Teach students to troubleshoot and to learn from manuals/forums/peers/etc
   * Do's and don'ts for basic script design (antipatterns)
 
+## History
+This repostitory has been created as an extension of a 'Birds of a Feather' discussion at the
+2017 iEvoBio conference, where ideas where bandied about for building new undergraduate
+bioinformatics curricula and teaching undergraduates (in any field) computing generally. We wanted a centralized place to put those ideas, but also wanted to make sure they were accessible to the broader community. Thank you GitHub :)
